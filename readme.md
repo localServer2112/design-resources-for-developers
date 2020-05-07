@@ -2,6 +2,8 @@
 
 > A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
 
+checkout https://www.evernote.design/post/smash-illustrations/ for resources
+
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
 - [Icons](#icons)
